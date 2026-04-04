@@ -16,7 +16,7 @@ I'm a data analyst passionate about turning messy datasets into clear, actionabl
 - 💼 Currently working on: **Electronics Sales Power BI Dashboard**
 - 👀 Interested in: **Business Intelligence, Data Storytelling, Analytics Engineering**
 - 🎯 2026 goals: **Build 5 portfolio projects, earn PL-300 certification**
-- 📫 Reach me: **[your.email@example.com]**
+- 📫 Reach me: **[idrisabdihamid80@gmail.com]**
 
 ---
 
