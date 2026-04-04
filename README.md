@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Abdihamid Idris] 👋</h1>
+<h1 align="center">Hi there, I'm Abdihamid Idris👋</h1>
 
 <h3 align="center">Data Analyst | Power BI Developer | Turning Data Into Decisions</h3>
 
