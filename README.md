@@ -73,7 +73,7 @@ Interactive 7-page Power BI report analyzing $99,430 in electronics sales across
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/[https://www.linkedin.com/in/abdihamid-idris-45357824a?utm_source=share_via&utm_content=profile&utm_medium=member_android]" target="_blank">
+  <a <a href="https://www.linkedin.com/in/abdihamid-idris-45357824a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:[idrisabdihamid80@gmail.com]">
