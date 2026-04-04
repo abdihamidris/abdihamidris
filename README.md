@@ -95,7 +95,7 @@ Interactive 7-page Power BI report analyzing $99,430 in electronics sales across
 ## 💡 A bit more about me
 
 ```yaml
-name: [Your Name]
+name: [Abdihamid Idris]
 location: [Nairobi,Kenya]
 current_focus: Data Analytics & Business Intelligence
 languages_spoken: [English, Other]
