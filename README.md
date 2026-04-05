@@ -81,10 +81,6 @@ Interactive 7-page Power BI report analyzing $99,430 in electronics sales across
   </a>
   <a href="https://twitter.com/Likeabdihamid" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://[abdihamidris.netlify.app].com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
  
 </p>
 
