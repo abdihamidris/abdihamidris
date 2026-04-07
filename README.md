@@ -13,7 +13,7 @@
 I'm a data analyst passionate about turning messy datasets into clear, actionable business insights. I specialize in the complete analytics workflow — from data cleaning and modeling to visualization and strategic recommendations.
 
 - 🌱 Currently learning: **Advanced DAX, Python for data analysis, SQL**
-- 💼 Currently working on: **Electronics Sales Power BI Dashboard**
+- 💼 Currently working on: **Trends in coffee Sales Power BI Dashboard**
 - 👀 Interested in: **Business Intelligence, Data Storytelling, Analytics Engineering**
 - 🎯 2026 goals: **Build 5 portfolio projects, earn PL-300 certification**
 - 📫 Reach me: **[idrisabdihamid80@gmail.com]**
